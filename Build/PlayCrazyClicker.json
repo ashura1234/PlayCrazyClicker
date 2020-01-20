@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
+"companyName": "NotTodayBG",
 "productName": "Crazy Clicker",
-"productVersion": "0.1",
+"productVersion": "1.0",
 "dataUrl": "PlayCrazyClicker.data.unityweb",
 "wasmCodeUrl": "PlayCrazyClicker.wasm.code.unityweb",
 "wasmFrameworkUrl": "PlayCrazyClicker.wasm.framework.unityweb",
